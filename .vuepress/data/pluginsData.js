@@ -135,5 +135,13 @@ export default [
     repo: 'vuepress-plugin-sitemap',
     feature: 'feature',
     scenes: 'independent'
+  },
+  {
+    name: 'vuepress-plugin-mini-sandbox', 
+    desc: '前端【代码 / 组件】在线编辑和实时预览, 支持 html / vue / react',
+    user: 'buuing',
+    repo: 'mini-sandbox',
+    feature: 'feature',
+    scenes: 'develop'
   }
 ]
